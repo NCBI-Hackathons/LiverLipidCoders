@@ -15,5 +15,6 @@ Through machine-learning-based staging of disease and identification of relevant
 
 ![The Cohort](./pix/Slide2.PNG "The Cohort")
 
+## Exploratory Analysis
+The Correlation Matix of 1846 Lipids:
 ![The Correlation Matix of 1846 Lipids](./pix/cormat_all.png "The Correlation Matix of 1846 Lipids")
-
