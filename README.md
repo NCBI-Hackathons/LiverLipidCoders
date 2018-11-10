@@ -17,18 +17,13 @@ Through machine-learning-based staging of disease and identification of relevant
 
 ![The Cohort](./pix/Slide2.PNG "The Cohort")
 
-## Exploratory Analysis
-We created a correlation matrix for the normalized data of all 1846 lipids. Only about 400 of these are known and labeled, but all of them can potentially contribute to the staging of the disease.
-![The Correlation Matrix of 1846 Lipids](./pix/correlation_matrix_normed_data.png "The Correlation Matix of 1846 Lipids")
 
-We also created a correlation matrix for all 87 patient samples. Though we have 90 total, the stages of 3 of the samples are unknown and were therefore removed from consideration for training.
-
-![The Correlation Matrix of 87 samples](./pix/cormatRF.png "The Correlation Matrix of 87 samples")
 
 ## Lipid Markers for Stage 3
 We focused on feature selection and dimension reduction so we could identify lipids especially relevant to staging. We created a list of known and unknown lipid signals that contribute the most to the automated classification of steatohepatisis (stage 3):
 
-![Lipid Markers of Stage 3 Classifier](./RandomForest/Capture.PNG "Lipid Markers of Stage 3 Classifer")
+![Lipid Markers of Stage 3 Classifier](./pix/revised_RF_2.PNG "Lipid Markers of Stage 3 Classifer")
+![Lipid Markers of Stage 3 Classifier 4](./pix/revised_RF_4.PNG "Lipid Markers of Stage 3 Classifer 4")
 
 ## Dense Neural Network
 Using all the named lipids, we normalized the data and trained 281 different architectures and used the best to classify between F1/F2, F3, and F4.
