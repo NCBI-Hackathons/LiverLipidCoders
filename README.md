@@ -18,3 +18,6 @@ Through machine-learning-based staging of disease and identification of relevant
 ## Exploratory Analysis
 We created a correlation matrix for all 1846 lipids. Only about 400 of these are known and labeled, but all of them can potentially contribute to the staging of the disease.
 ![The Correlation Matrix of 1846 Lipids](./pix/cormat_all.png "The Correlation Matix of 1846 Lipids")
+
+Correlation matrix of 87 liver samples:
+![The Correlation Matrix of 87 samples](./pix/all_sample_corr_11092018.pdf "The Correlation Matrix of 87 samples")
