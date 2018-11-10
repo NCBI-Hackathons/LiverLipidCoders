@@ -16,5 +16,5 @@ Through machine-learning-based staging of disease and identification of relevant
 ![The Cohort](./pix/Slide2.PNG "The Cohort")
 
 ## Exploratory Analysis
-The Correlation Matix of 1846 Lipids:
-![The Correlation Matix of 1846 Lipids](./pix/cormat_all.png "The Correlation Matix of 1846 Lipids")
+We created a correlation matrix for all 1846 lipids. Only about 400 of these are known and labeled, but all of them can potentially contribute to the staging of the disease.
+![The Correlation Matrix of 1846 Lipids](./pix/cormat_all.png "The Correlation Matix of 1846 Lipids")
