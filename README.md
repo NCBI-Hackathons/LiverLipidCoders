@@ -11,6 +11,7 @@ There are four main stages of liver disease:
 Through machine-learning-based staging of disease and identification of relevant biomarkers in plasma, patients can avoid the process of an intrusive biopsy (for stage 3) and still receive an accurate diagnosis of the disease. Our team conducted statistical analyses on a small sample of patient data to determine whether further investigation of similar techniques is beneficial.
 
 
-![Stages of Liver Disease](https://github.com/NCBI-Hackathons/LiverLipidCoders/pix/Slide1.PNG "Stages of Liver Disease")
+![**Stages of Liver Disease**](./pix/Slide1.PNG "Stages of Liver Disease")
 
-![The Cohort](https://github.com/NCBI-Hackathons/LiverLipidCoders/pix/Slide2.PNG "The Cohort")
+![**The Cohort**](./pix/Slide2.PNG "The Cohort")
+
