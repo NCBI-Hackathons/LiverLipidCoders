@@ -32,4 +32,4 @@ We focused on feature selection and dimension reduction so we could identify lip
 
 ## Dense Neural Network
 Using all the named lipids, we normalized the data and trained 281 different architectures and used the best to classify between F1/F2, F3, and F4.
-![Neural Network Summary](./DNN_named_search/DNN_Summary.png "Neural Network Search")
+![Neural Network Summary](./NeuralNetwork/DNN_Summary.png "Neural Network Search")
