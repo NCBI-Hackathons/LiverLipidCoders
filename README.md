@@ -26,4 +26,4 @@ We also created a correlation matrix for all 87 patient samples. Though we have 
 ## Lipid Markers for Stage 3
 We focused on feature selection and dimension reduction so we could identify lipids especially relevant to staging. We created a list of known and unknown lipid signals that contribute the most to the automated classification of steatohepatisis (stage 3):
 
-![Lipid Markers of Stage 3 Classifier](./RandomForest/Capture.png "Lipid Markers of Stage 3 Classifer")
+![Lipid Markers of Stage 3 Classifier](./RandomForest/Capture.PNG "Lipid Markers of Stage 3 Classifer")
