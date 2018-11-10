@@ -1,6 +1,8 @@
 # LiverLipidCoders
 The focus of this project is to develop a machine learning algorithm using the plasma lipid data provided to provide staging for a patient’s liver disease diagnosis. 
 
+![Logo](./pix/liver_neuralnet.png "Logo")
+
 ## Introduction
 There are four main stages of liver disease:
   1. Normal: Healthy condition.
@@ -27,3 +29,7 @@ We also created a correlation matrix for all 87 patient samples. Though we have 
 We focused on feature selection and dimension reduction so we could identify lipids especially relevant to staging. We created a list of known and unknown lipid signals that contribute the most to the automated classification of steatohepatisis (stage 3):
 
 ![Lipid Markers of Stage 3 Classifier](./RandomForest/Capture.PNG "Lipid Markers of Stage 3 Classifer")
+
+## Dense Neural Network
+Using all the named lipids, we normalized the data and trained 281 different architectures and used the best to classify between F1/F2, F3, and F4.
+![Neural Network Summary](./DNN_named_search/DNN_Summary.png "Neural Network Search")
