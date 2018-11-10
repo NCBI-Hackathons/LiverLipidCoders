@@ -20,4 +20,4 @@ We created a correlation matrix for all 1846 lipids. Only about 400 of these are
 ![The Correlation Matrix of 1846 Lipids](./pix/cormat_all.png "The Correlation Matix of 1846 Lipids")
 
 Correlation matrix of 87 liver samples:
-![The Correlation Matrix of 87 samples](./pix/all_sample_corr_11092018.pdf "The Correlation Matrix of 87 samples")
+![The Correlation Matrix of 87 samples](./pix/cormatRF.png "The Correlation Matrix of 87 samples")
