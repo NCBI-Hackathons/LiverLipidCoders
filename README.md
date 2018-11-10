@@ -22,8 +22,8 @@ Through machine-learning-based staging of disease and identification of relevant
 ## Lipid Markers for Stage 3
 We focused on feature selection and dimension reduction so we could identify lipids especially relevant to staging. We created a list of known and unknown lipid signals that contribute the most to the automated classification of steatohepatisis (stage 3):
 
-![Lipid Markers of Stage 3 Classifier](./pix/revised_RF_2.PNG "Lipid Markers of Stage 3 Classifer")
-![Lipid Markers of Stage 3 Classifier 4](./pix/revised_RF_4.PNG "Lipid Markers of Stage 3 Classifer 4")
+![Lipid Markers of Stage 3 Classifier](./pix/revised_RF_2.png "Lipid Markers of Stage 3 Classifer")
+![Lipid Markers of Stage 3 Classifier 4](./pix/revised_RF_4.png "Lipid Markers of Stage 3 Classifer 4")
 
 ## Dense Neural Network
 Using all the named lipids, we normalized the data and trained 281 different architectures and used the best to classify between F1/F2, F3, and F4.
